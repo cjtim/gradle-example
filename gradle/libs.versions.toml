@@ -5,7 +5,7 @@
 # https://docs.gradle.org/current/userguide/platforms.html#sub::toml-dependencies-format
 
 [versions]
-official-mssql = "11.2.0.jre17"
+official-mssql = "12.2.0.jre11"
 
 
 [libraries]
